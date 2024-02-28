@@ -1,0 +1,1 @@
+Design and develop an autonomous agricultural weed eradication system incorporating image-based weed detection, accurate end-effector control for efficient weed removal, and solar power integration for sustainability, while prioritizing crop protection to minimize damage during operation.
